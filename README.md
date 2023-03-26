@@ -16,3 +16,7 @@ nouvelle approche appelée contrast-enhanced colour features. Par la suite, les 
 classifiés par la méthode K-Nearest Neighbour.
 Une base de données privée qui se compose de 5500 images endoscopiques est utilisé pour l’évaluation de la
 méthode posée : (http://www.depeca.uah.es/colonoscopy_dataset/)
+
+## Architecture de système de detection de polypes
+
+<img src="./arch.jpg"  width="200" height="400" />
