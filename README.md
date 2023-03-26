@@ -20,6 +20,6 @@ méthode posée : (http://www.depeca.uah.es/colonoscopy_dataset/)
 ## Architecture de système de detection de polypes
 
 <img src="./architecture.jpg"  width="400" height="500" />
-<img src="./Résultat d’application de filtre top-bottom hat.jpg"  width="500" height="200" />
+<img src="./Résultat d’application de filtre top-bottom hat .jpg"  width="500" height="200" />
 <img src="./resultat final.jpg"  width="400" height="200" />
 
