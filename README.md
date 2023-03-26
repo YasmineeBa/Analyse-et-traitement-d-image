@@ -19,4 +19,4 @@ méthode posée : (http://www.depeca.uah.es/colonoscopy_dataset/)
 
 ## Architecture de système de detection de polypes
 
-<img src="./architecture.jpg"  width="200" height="400" />
+<img src="./architecture.jpg"  width="400" height="500" />
