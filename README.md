@@ -21,6 +21,7 @@ méthode posée : (http://www.depeca.uah.es/colonoscopy_dataset/)
 
 <img src="./architecture.jpg"  width="400" height="500" />
 <img src="./Résultat d’application de filtre top-bottom hat .jpg"  width="500" height="200" />
-## Résultat finale
+
+Résultat finale
 <img src="./resultat final.jpg"  width="400" height="200" />
 
